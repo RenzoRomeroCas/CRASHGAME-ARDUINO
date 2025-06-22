@@ -13,5 +13,7 @@ Universidad Nacional de Trujillo
 **Integrantes del grupo**
 
 Renzo Rodrigo Romero Castillo
+Christian Quesquen Jimenes
+Manuel Reyes Castañeda
 
 
