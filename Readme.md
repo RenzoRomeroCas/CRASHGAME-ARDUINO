@@ -14,6 +14,4 @@ Universidad Nacional de Trujillo
 
 Renzo Rodrigo Romero Castillo
 
-Christian Fabian Quesquén Jiménez
 
-Manuel Reyes Castañeda
